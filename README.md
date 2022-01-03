@@ -1,8 +1,7 @@
 # How to create a simple image in Docker
-This simple project show you how to create a simple image of the project by docker commands
+This simple project show you how to create a simple image of the project by docker commands.
 ## Installation
-Create simple image in docker
-after installing Docker on your system then follow this instructions:
+after installing Docker on your machine then follow this instructions:
 
 <b>1. Clone the project</b>
 
