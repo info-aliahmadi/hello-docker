@@ -32,9 +32,9 @@ WORKDIR /app
 CMD node app.js
 
 ```
-<b>FROM:</b> What container your project need 
+<b>FROM:</b> What container your project need to run or build
  
-<b>COPY:</b> Copy all contents from root folder to 'app' folder (this folder will create virtually)
+<b>COPY:</b> Copy all contents from root folder to 'app' folder in image's filesystem
 
 <b>WORKDIR:</b> Go to 'app' directory for run commands
 
